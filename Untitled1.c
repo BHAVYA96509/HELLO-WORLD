@@ -1,4 +1,4 @@
-// C Program to Reverse a String using Two-Pointer Technique
+
 #include <stdio.h>
 #include <string.h>
 
